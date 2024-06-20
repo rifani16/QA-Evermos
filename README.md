@@ -1,2 +1,2 @@
 # QA-Evermos
-Final Task for Evermos Software Quality Assurance Project Based Internship Program
+Final Task for Project-Based Internship: Quality Assurance Evermos x Rakamin Academy
